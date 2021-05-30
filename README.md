@@ -1,3 +1,7 @@
+# First need to config firebase in .env file
+
+Copy the firebase project cofiguration in to .env file
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
